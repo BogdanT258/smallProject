@@ -1,0 +1,19 @@
+#div1{
+    background-color: rgba(34, 168, 34, 0.5);
+    height: 100px;
+    width: 100%;
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column; 
+       
+}
+#div2{
+    background-color: rgba(40, 84, 126, 0.5);
+    height: 100px;
+    width: 100%;
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;    
+}
